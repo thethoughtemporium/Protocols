@@ -54,12 +54,12 @@
   16. Add 1ml of fresh LB to each tube, and allow to recover in an incubator at 37C for 1-2H with shaking/rotation
 
 If using turbo or other easy strains:
-  17a. plate 100ul of recovered solution on appropriate antibiotic or selection plates
-  18a. spread using sterile spreader or innoculation loops
+  17. plate 100ul of recovered solution on appropriate antibiotic or selection plates
+  18. spread using sterile spreader or innoculation loops
 
 If using BL21:
-  17b. Pellet cells by centrifugation at 12000rpm for 10s
-  18b. plate entire pellet + 100ul of media
-  19b. spread using sterile spreader or innoculation loop
+  17. Pellet cells by centrifugation at 12000rpm for 10s
+  18. plate entire pellet + 100ul of media
+  19. spread using sterile spreader or innoculation loop
 
   20. Incubate plate at 37C for 2-3 days until colonies develop
