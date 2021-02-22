@@ -2,22 +2,22 @@
 
 ### Materials
 
-  *distilled water
-  *sterile 15ml tubes
-  *sterile 1.5ml tubes
-  *calcium chloride
-  *syringe + syringe filter
-  *LB broth
-  *LB agar plate + appropriate antibiotic 
-  *Innoculation loop
-  *Sterile spreader
-  *Bunser burner or torch
-  *Pipettes/tips
-  *15ml centrifuge
-  *1.5ml centrifuge
-  *heat block
-  *Ice bath
-  *shaking/rotating incubator
+  * distilled water
+  * sterile 15ml tubes
+  * sterile 1.5ml tubes
+  * calcium chloride
+  * syringe + syringe filter
+  * LB broth
+  * LB agar plate + appropriate antibiotic 
+  * Innoculation loop
+  * Sterile spreader
+  * Bunser burner or torch
+  * Pipettes/tips
+  * 15ml centrifuge
+  * 1.5ml centrifuge
+  * heat block
+  * Ice bath
+  * shaking/rotating incubator
 
 
 ### stock prep
