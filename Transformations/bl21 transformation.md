@@ -62,4 +62,4 @@ If using BL21:
   * plate entire pellet + 100ul of media
   * spread using sterile spreader or innoculation loop
 
-  * Incubate plate at 37C for 2-3 days until colonies develop
+  17. Incubate plate at 37C for 2-3 days until colonies develop
