@@ -26,6 +26,7 @@
   2. transfer 1ml of this solution to a fresh tube and add 9ml of distilled water
   3. filter sterilize into a fresh tube. 
   4. Label the result "transformation buffer"
+  5. For improved results, prechill this buffer in the fridge for at least an hour before use
 
 ### transformation
 
@@ -46,7 +47,7 @@
   9. Pipette off liquid
   10. The pellet should contain enough cells for 3-4 reactions. Add 100ul of transformation buffer for the number of reactions you wish to perform (100-400ul)
     - If doing more than 1 reaction, seperate liquid into 100ul aliqotes in seperate tubes
-  11. Add 50-400ug of DNA to each tube (50 for easy plasmids/strains, 400 for stubborn ones. Adjust as needed)
+  11. Add 50-400ng of DNA to each tube (50 for easy plasmids/strains, 400 for stubborn ones. Adjust as needed)
   12. incubate mixutre in a fridge (5C) for 25 min
   13. Preheat heatblock to 42C
   14. After incubation in the fridge heat shock cells in heat block for exactly 90s
